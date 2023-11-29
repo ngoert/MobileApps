@@ -3,7 +3,6 @@
  minimal number of bills and coins.
  https://stackoverflow.com/questions/42357571/product-purchase-and-money-change-based-on-money-bills-the-user-has
  
- Nicholas Goertemiller
  Dr. MayField CS 4153
  DUE: 01/27/2022
  Program to convert cash amount into a minimal amount of bills and coins
